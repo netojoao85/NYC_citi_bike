@@ -1,25 +1,19 @@
-# NYC citi bike <img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/citi_bikes.jpg" width = "200" height = "200" align = "right"/>   
+# NYC citi bike <img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/citi_bikes.jpg" width = "150" height = "150" align = "right"/>   
 ### A Report to provide business intelligence
  
-Created a report using a range of visualisations to provide Business Intelligence, using using nyc_bikes dataset from the tsibbledata package. You can find more about the dataset [here](https://rdrr.io/github/tidyverts/tsibbledata/man/nyc_bikes.html).
+Created a report to provide Business Intelligence, using using nyc_bikes dataset from the tsibbledata package. You can find more about the dataset [here](https://rdrr.io/github/tidyverts/tsibbledata/man/nyc_bikes.html).
 
-
-
+To provide actionable insights to the business and how it relates to key performance indicators, each visualisation has a description and interpretation so as to explain the context and insights. The report consider the pattern of bike hires over time, as well as bike hire patterns between bike rider demographics.
 <br>
-<br>
-<br>
-<br>
-<br>
-
-### Prepare data for visualisation
+### Report topics:
 <ul>
  <li> Domain knowledge </li>
  <li> Business requirements </li>
- <li> Business processes and concept of data flow </li>
+ <li> Data flow and Business process </li>
  <li> Data visualisation as a tool for decision-making </li>
  <li> Data types </li>
  <li> Data quality and data bias </li>
- <li> Preparing data for visualisation </li>
+ <li> Data cleaning - Preparing data for visualisation </li>
  <li> Key Performance Indicators (KPIs) </li>
  <li> Time series analysis </li>
 </ul>
