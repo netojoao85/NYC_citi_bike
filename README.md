@@ -5,7 +5,7 @@ Created a report to provide Business Intelligence, using *nyc_bikes* dataset fro
 
 To provide actionable insights to the business and how it relates to key performance indicators, each visualisation has a description and interpretation to explain the context and insights. The reports consider the pattern of bike hires over time, as well as bike hire patterns between bike rider demographics.
 <br>
-### Report topics:
+#### Report topics:
 <ul>
  <li> Domain knowledge </li>
  <li> Business requirements </li>
