@@ -16,16 +16,16 @@ more about the dataset> You can read more about the dataset here or by looking a
 <br>
        
 ##
-<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/bikes_per_month.jpg"/>     
+<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/bikes_per_month.jpg" width = "800" height = "450"/>     
       
 ##
-<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/hired_per_week_day.jpg" />     
+<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/hired_per_week_day.jpg" width = "800" height = "450"/>     
 
 ##
-<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/by_gender.jpg" />     
+<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/by_gender.jpg" width = "800" height = "450"/>     
 
 ##
-<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/travels.jpg" />     
+<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/travels.jpg" width = "800" height = "450"/>     
 
 ##
-<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/start_location.jpg" />     
+<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/start_location.jpg" width = "800" height = "450"/>     
