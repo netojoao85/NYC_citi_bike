@@ -1,6 +1,6 @@
 # NYC citi bike - Data visualisations to provide business intelligence
  
-<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/citi_bikes.jpg" width = "200" height = "200" align = "left"/>
+<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/citi_bikes.jpg" width = "200" height = "200"/>      
 
 
 
