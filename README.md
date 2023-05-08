@@ -1,7 +1,7 @@
 # NYC citi bike <img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/citi_bikes.jpg" width = "150" height = "150" align = "right"/>   
 ### A Report to provide business intelligence
  
-Created a report to provide Business Intelligence, using using nyc_bikes dataset from the tsibbledata package. You can find more about the dataset [here](https://rdrr.io/github/tidyverts/tsibbledata/man/nyc_bikes.html).
+Created a report to provide Business Intelligence, using nyc_bikes dataset from the tsibbledata package. You can find more about the dataset [here](https://rdrr.io/github/tidyverts/tsibbledata/man/nyc_bikes.html).
 
 To provide actionable insights to the business and how it relates to key performance indicators, each visualisation has a description and interpretation so as to explain the context and insights. The report consider the pattern of bike hires over time, as well as bike hire patterns between bike rider demographics.
 <br>
