@@ -1,6 +1,6 @@
-# NYC citi bike - Data visualisations to provide business intelligence
+# NYC citi bike <img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/citi_bikes.jpg" width = "200" height = "200" align = "right"/>   
+### Data visualisations to provide business intelligence
  
-<img src= "https://github.com/netojoao85/NYC_citi_bike/blob/main/images/citi_bikes.jpg" width = "150" height = "150" align = "left"/>      
 using nyc_bikes dataset from the tsibbledata package.  
 
 A [here](https://rdrr.io/github/tidyverts/tsibbledata/man/nyc_bikes.html) 
